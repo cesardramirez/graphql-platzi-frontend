@@ -1,20 +1,21 @@
 # graphql-platzi-frontend
 Platzi - Curso Básico de GraphQL (Frontend)
 
+> Para visualizar el proyecto Backend (que construye las queries en GraphQL) dar clic [acá](https://github.com/cesardramirez/graphql-platzi-backend).
+
 ## Dependencias
 
 > *dependencies*:
-> **graphl-request**: Cliente que se va a usar para hacer los llamados al backend.
-> **handlebars**: Motor de plantillas.
+> <br>**graphl-request**: Cliente que se va a usar para hacer los llamados al backend.
+> <br>**handlebars**: Motor de plantillas.
 
 > *devDependencies*:
-> **browserify** y **uglifyify**: Compactar js con todas las dependencias y construir un bundle.
+> <br>**browserify** y **uglifyify**: Compactar js con todas las dependencias y construir un bundle.
 
 ### Listado de comandos
 
 `npm install`  _Generar la carpeta node_modules (necesario para ejecutar el proyecto)._
-`npm run bundle`  _Generar el archivo bundle.js que será llamado al iniciar el index.html en el navegador._
-
+<br>`npm run bundle`  _Generar el archivo bundle.js que será llamado al iniciar el index.html en el navegador._
 
 ## Ejecución del proyecto.
 
