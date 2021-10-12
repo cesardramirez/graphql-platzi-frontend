@@ -1,0 +1,15 @@
+{
+  "name": "graphql-front",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "edsadr",
+  "license": "MIT",
+  "dependencies": {
+    "graphql-request": "^1.8.2",
+    "handlebars": "^4.1.1"
+  }
+}
